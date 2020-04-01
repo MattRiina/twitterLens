@@ -28,8 +28,12 @@
   color: #61dafb;
 }
 
-.Stockchart {
-  text-align: center;
+.SearchBar {
+  background-color: #282c34;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
 }
 
 .Stock-header {

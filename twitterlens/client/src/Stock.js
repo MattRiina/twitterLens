@@ -11,7 +11,7 @@ class Stock extends Component {
   // Constructor for the Stock Class
   constructor() {
     super();
-    this.state = {
+    this.state = { 
       term:null,
       value: ''
     };
